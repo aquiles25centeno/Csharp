@@ -1,0 +1,4 @@
+﻿1>------ Rebuild All started: Project: oraclecsharp, Configuration: Debug Any CPU ------
+1>D:\PROGRAMACION VISUAL\oraclecsharp - SMT\Form1.cs(32,20,32,28): warning CS0414: The field 'Form1._counter' is assigned but its value is never used
+1>  oraclecsharp -> D:\PROGRAMACION VISUAL\oraclecsharp - SMT\bin\Debug\oraclecsharp.exe
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========

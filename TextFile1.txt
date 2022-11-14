@@ -1,0 +1,29 @@
+﻿
+hello everyone welcome to my channel today i'm going to show you 
+how you can connect windows forms application to Oracle Database 
+using secure way 
+this is my first video on youtube soon i'll getting a microphone so i can add
+commentary in the video 
+
+okay for connecting oracle to c# application 
+we need to add Oracle Client Library into our project 
+lets get started since i've already installed it i can it through 
+now the library is added now i'll create a connection string in app.config file
+
+Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=localhost)(PORT=1521)))(CONNECT_DATA=(SERVER=DEDICATED)(SERVICE_NAME=orcl1)));User Id=scott;Password=tiger;
+this is the connection string use to connect with oracle before adding this you need to check
+your
+HOST:PORT:SERVICE_NAME:
+and your database username and password
+now im going to add this in my connectionnstring attribure
+
+i've already created a form with a button 
+
+as you saw we've connected to the oracle database 
+in next video i'm going to show you how we can fetch data from oracle into different c# controls
+for that stay tuned 
+please like and subscibe for more tutorials like this
+
+Take care and Good Bye :)
+
+source code and connection string is in description
